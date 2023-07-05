@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.logo {
+    display: flex;
+    
+}
+
+.logo img {
+    width: 100px;
+    z-index: 2;
+}
+
+.logo h1 {
+    position: relative;
+    top: 30px;
+    font-size: 40px;
+    opacity: 0.6;
+}
+
+.logo span {
+    color: rgb(0, 140, 255);
+}
+
+
+.header {
+    background-color: rgb(105, 136, 236);
+    width: 970px;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    top:-30px;
+    z-index: 1;
+    color: white;
+}
+
+.izquierda {
+    width: 250px;
+    margin-left: 10px;
+    background-image: linear-gradient(rgb(230, 230, 230),white);
+}
+
+.izquierda h1 {
+    font-size: 20px;
+}
+
+.izquierda h1 span {
+    font-size: 20px;
+    color: red;
+}
+
+.izquierda h3 span {
+    color: lightblue;
+}
+
+.VIDEO {
+    background-color: rgb(56, 118, 160);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.MORE {
+    background-color: rgb(216, 142, 45);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.linea {
+    border-bottom: 1px solid rgb(26, 26, 26);
+    padding-bottom: 10px;
+    width: 250px;
+    margin-left: 10px;
+}
+
+.fondo{
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.ninja {
+    width: 100px;
+    position: relative;
+    left: -180px;
+    top: -80px;
+}
+
+.fotos h4{
+    font-size: 20px;
+    position: relative;
+    top: 100px;
+    margin-left: 25px;
+    width: 250px;
+    color: white;
+}
+
+.boton {
+    color: white;
+    background-color: rgb(0, 185, 247);
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    left: -300px;
+    top: -50px;
+}
+
+.home img{
+    width: 30px;
+    position: relative;
+    left: 300px;
+    bottom: 750px;
+}
+
+.home h2 {
+    position: relative;
+    left: 340px;
+    bottom: 780px;
+    color: rgb(0, 102, 255);
+}
+
+.fono {
+    width: 50px;
+    position: relative;
+    left: 750px;
+    bottom: 810px;
+}
+
+.telefono h2 {
+            color: rgb(20, 170, 219);
+            font-size: 30px;
+            position: relative;
+            left: 810px;
+            bottom: 870px;
+}
+
+.telefono h3{
+    font-size: 10px;
+    position: relative;
+    left: 820px;
+    bottom: 870px;
+}
+
+.linea1 {
+    border-bottom: 1px solid rgb(26, 26, 26);
+    padding-bottom: 10px;
+    width: 720px;
+    margin-left: 10px;
+    position: relative;
+    left: 280px;
+    bottom: 850px;
+}
+
+.inicio{
+    position: absolute;
+    left: 300px;
+    top: 230px;
+}
+
+.inicio h2 {
+    color: rgb(46, 91, 150);
+}
+
+.inicio h3{
+    font-size: 15px;
+}
+
+.inicio span {
+    color:rgb(2, 202, 202);
+    padding: 2px;
+}
+
+.inicio li {
+    width: 600px;
+}
+
+.inicio img {
+    position: relative;
+    width: 400px;
+    left: 100px;
+}
+
+.inicio h4 {
+    width: 700px;
+}
+
+.rectangulo{
+    width: 800px;
+    height: 200px;
+    border: 2px solid rgb(0, 174, 255);
+    background-color: transparent;
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+}
+
+.cuadro h2 {
+    color: rgb(20, 170, 219);
+    font-size: 25px;
+    position: relative;
+    left: 510px;
+    bottom: 380px;
+}
+
+.cuadro img {
+    width: 150px;
+    position: absolute;
+    top: 900px;
+    left: 340px;
+}
+
+.cuadro h3 {
+    width: 500px;
+    font-size: 16px;
+    position: relative;
+    bottom: 360px;
+    left: 500px;
+
+}
+
+.cuadro span {
+    color:rgb(2, 202, 202);
+    padding: 2px;
+}
